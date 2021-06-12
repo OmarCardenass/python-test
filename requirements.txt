@@ -1,4 +1,0 @@
-#python 3.8.
-#INSTALAR:
-#!pip install openpyxl
-#!pip install sqlalchemy
